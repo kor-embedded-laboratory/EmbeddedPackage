@@ -1,0 +1,18 @@
+[submodule "toolchain"]
+	path = toolchain
+	url = git@github.com:kor-embedded-laboratory/toolchain.git
+[submodule "tftp-root"]
+	path = tftp-root
+	url = git@github.com:kor-embedded-laboratory/tftp-root.git
+[submodule "nfs-root"]
+	path = nfs-root
+	url = git@github.com:kor-embedded-laboratory/nfs-root.git
+[submodule "u-boot-bootloader"]
+	path = u-boot-bootloader
+	url = git@github.com:kor-embedded-laboratory/u-boot-bootloader.git
+[submodule "buildroot-rootfs"]
+	path = buildroot-rootfs
+	url = git@github.com:kor-embedded-laboratory/buildroot-rootfs.git
+[submodule "linux-kernel"]
+	path = linux-kernel
+	url = git@github.com:kor-embedded-laboratory/linux-kernel.git
