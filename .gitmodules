@@ -16,3 +16,6 @@
 [submodule "linux-kernel"]
 	path = linux-kernel
 	url = git@github.com:kor-embedded-laboratory/linux-kernel.git
+[submodule "rpi-linux-kernel"]
+	path = rpi-linux-kernel
+	url = git@github.com:kor-embedded-laboratory/rpi-linux-kernel.git
